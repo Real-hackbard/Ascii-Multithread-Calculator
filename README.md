@@ -9,3 +9,12 @@
 ![License](https://github.com/user-attachments/assets/ff71a38b-8813-4a79-8774-09a2f3893b48) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: ![Freeware](https://github.com/user-attachments/assets/1fea2bbf-b296-4152-badd-e1cdae115c43)
 
 </br>
+
+
+![Ascii-Multithread](https://github.com/user-attachments/assets/da70ca1d-d16a-4fca-81fa-006d9ceddac4)
+
+</br>
+
+
+### You need the graphics32 library to compile this project.
+Download : https://github.com/graphics32/graphics32
